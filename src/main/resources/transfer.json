@@ -1,0 +1,20 @@
+{
+  "direction": "send",
+  "remote_host": "10.94.8.121",
+  "remote_user": "testuser",
+  "ssh_private_key": "somekeyvalue",
+  "paths": [
+    {
+      "source": "/aws-dev-OD/test.txt",
+      "destination": "/aws-dev-OD/test_Vide0123456.mp4"
+    }
+  ],
+  "title": "auto",
+  "ssh_port": 33001,
+  "target_rate_kbps": 500000,
+  "overwrite": "diff",
+  "resume_policy": "sparse_csum",
+  "retry_duration": 15,
+  "create_dir": true,
+  "precalculate_job_size": true
+}

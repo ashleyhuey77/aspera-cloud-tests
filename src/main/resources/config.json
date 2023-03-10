@@ -1,0 +1,5 @@
+{
+  "endpoint": "https://10.94.8.121:9092",
+  "thread_count": 5,
+  "status_wait_time" : 300
+}
