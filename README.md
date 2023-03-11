@@ -35,10 +35,6 @@ aspera-cloud-tests is an example of an api-only automated test project. No brows
   - [Information](#information)
     - [Tools Required](#tools-required)
     - [Installation](#installation)
-  - [Development](#development)
-      - [Test Tools](#test-tools)
-      - [Misc Tools](#misc-tools)
-      - [Features](#features)
   - [Acknowledgement](#acknowledgement)
 
 ## Introduction
